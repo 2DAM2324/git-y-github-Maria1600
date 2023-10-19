@@ -6,7 +6,7 @@
 	-Caracteristica 2
 >Cita importnate :)
 
-!(Paisaje)(./(SI)Sistemas Informaticos/ clase1/Shiganashima.png)
+!(Paisaje)(./git-y-github-Maria1600/Shiganashima.jng)
 
 (Pagina random)(https://www.youtube.com/)
 
