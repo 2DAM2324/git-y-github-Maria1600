@@ -4,7 +4,7 @@
 -Linea 1
 	-Caracteristica 1
 	-Caracteristica 2
->Cita importnate :)
+>Cita importante :)
 
 !(Paisaje)(./git-y-github-Maria1600/Shiganashima.jng)
 
